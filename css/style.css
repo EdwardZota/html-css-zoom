@@ -126,3 +126,7 @@ footer nav{
     background-color: #4a4a4a;
     padding: 31px 15px;
 }
+
+li i.green{
+    color: #4bc800;
+}
